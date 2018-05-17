@@ -1,0 +1,10 @@
+{
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxd55dba2452c189e1",
+	"projectname": "form-submit",
+	"condition": {}
+}
